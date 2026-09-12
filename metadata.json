@@ -1,0 +1,6 @@
+{
+  "name": "60 Atividades de Matemática",
+  "description": "Atividades práticas para crianças de 4 a 7 anos, prontas para imprimir e usar em casa ou na escola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
