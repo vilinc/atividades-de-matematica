@@ -27,7 +27,7 @@ export default function Oferta({ onBuyClick }: OfertaProps) {
         >
           {/* Tag do pacote */}
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-sky-50 border border-sky-200/80 text-sky-800 text-xs font-bold mb-3">
-            <span>+60 Atividades + 2 Bônus Inclusos</span>
+            <span>+60 Atividades + 1 Bônus Incluso</span>
           </div>
 
           {/* Preço riscado */}

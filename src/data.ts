@@ -14,7 +14,7 @@ export const HERO_DATA = {
   subtitleHighlight: '4 a 7 anos',
   subtitleSuffix: ', prontas para imprimir e usar em casa ou na escola.',
   ctaText: 'QUERO AS +60 ATIVIDADES + BÔNUS',
-  subCtaText: 'PDF • +60 Atividades + 2 Bônus Inclusos • Acesso imediato',
+  subCtaText: 'PDF • +60 Atividades + 1 Bônus Incluso • Acesso imediato',
   coverImage,
 };
 
@@ -128,12 +128,11 @@ export const AUDIENCE_DATA = {
 
 export const INCLUDED_DATA = {
   title: 'Você recebe',
-  productTitle: '+60 atividades de matemática + 2 Bônus',
+  productTitle: '+60 atividades de matemática + 1 Bônus',
   items: [
     { text: '+60 atividades de matemática em PDF de alta resolução (A4)', isBonus: false },
     { text: 'Gabarito completo e orientações pedagógicas', isBonus: false },
-    { text: 'Bônus 1: 20 Desafios Matemáticos Divertidos', isBonus: true },
-    { text: 'Bônus 2: Kit Pequeno Matemático — Certificados, Recompensas e Rotina de Estudos', isBonus: true },
+    { text: 'Bônus 1: 18 Desafios Matemáticos Divertidos', isBonus: true },
     { text: 'Acesso imediato no seu e-mail', isBonus: false },
     { text: 'Impressão sempre que precisar', isBonus: false },
   ],
@@ -141,7 +140,7 @@ export const INCLUDED_DATA = {
 
 export const PRICING_DATA = {
   sectionTitle: 'Comece hoje',
-  productName: '+60 Atividades de Matemática + 2 Bônus',
+  productName: '+60 Atividades de Matemática + 1 Bônus',
   regularPrice: 'R$ 39,90',
   price: 'R$ 9,90',
   installments: 'Pagamento único via PIX ou cartão.',
@@ -154,12 +153,12 @@ export const FAQ_ITEMS: FaqItem[] = [
   {
     id: 'faq-1',
     question: 'Como recebo?',
-    answer: 'O acesso ao caderno (+60 atividades) e aos 2 bônus é liberado imediatamente no seu e-mail após a confirmação do pagamento.',
+    answer: 'O acesso ao caderno (+60 atividades) e ao bônus é liberado imediatamente no seu e-mail após a confirmação do pagamento.',
   },
   {
     id: 'faq-2',
     question: 'O que vem no pacote?',
-    answer: 'Você recebe o caderno principal com +60 atividades em PDF (A4), gabarito completo e os 2 bônus: 20 Desafios Matemáticos Divertidos e o Kit Pequeno Matemático.',
+    answer: 'Você recebe o caderno principal com +60 atividades em PDF (A4), gabarito completo e o bônus: 18 Desafios Matemáticos Divertidos.',
   },
   {
     id: 'faq-3',

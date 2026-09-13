@@ -105,7 +105,7 @@ export default function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
             <div className="bg-neutral-50 p-3 rounded-xl border border-neutral-200/80 flex items-center justify-between">
               <div>
                 <p className="text-xs text-neutral-500 font-medium">Produto</p>
-                <p className="text-sm font-bold text-neutral-900">+60 Atividades de Matemática + 2 Bônus (PDF)</p>
+                <p className="text-sm font-bold text-neutral-900">+60 Atividades de Matemática + 1 Bônus (PDF)</p>
               </div>
               <span className="text-base font-extrabold text-neutral-900">{PRICING_DATA.price}</span>
             </div>
@@ -206,7 +206,7 @@ export default function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
             <div className="p-4 bg-sky-50 rounded-xl border border-sky-100 text-xs text-sky-800 text-left space-y-1">
               <p className="font-semibold">Informações do arquivo:</p>
               <p>• Formato: PDF de alta resolução (tamanho A4)</p>
-              <p>• Conteúdo: +60 páginas de exercícios + gabarito + 2 bônus exclusivos</p>
+              <p>• Conteúdo: +60 páginas de exercícios + gabarito + 1 bônus exclusivo</p>
               <p>• Sem expiração: baixe e imprima quando quiser</p>
             </div>
 

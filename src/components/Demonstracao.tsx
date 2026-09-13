@@ -158,7 +158,7 @@ export default function Demonstracao({ onSelectPreview, onCtaClick }: Demonstrac
           </button>
         )}
         <p className="text-xs text-neutral-400 font-medium mt-3">
-          Total de +60 atividades progressivas acompanhadas de gabarito e 2 bônus exclusivos.
+          Total de +60 atividades progressivas acompanhadas de gabarito e 1 bônus exclusivo.
         </p>
       </div>
     </section>
